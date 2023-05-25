@@ -1,5 +1,6 @@
 # Weather App
 The Weather App is a simple web app built with React that allows users to check the weather conditions of different cities around the world using their name or pincode.
+[App Link](https://main--sky-scan.netlify.app/)
 
 ## Features
     - Search for weather information by city name or pincode
